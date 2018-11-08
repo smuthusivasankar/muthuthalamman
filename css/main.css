@@ -109,7 +109,7 @@ tr:nth-child(even) {
     color: #f4f4f4;
     padding:2px;
     font-size: 3vw;
-    margin-top:250px;
+    margin-top:210px;
 }
 .full-screen-video-container video{
     z-index: -1;
